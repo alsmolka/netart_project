@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_sc
 model_name = "bert-base-uncased"
 max_length = 128
 
-
+#remember to change the data directory below
 TRAIN_FILE = "./data_eng/train.csv"
 OUTPUT_DIR = "./saved_model"
 
