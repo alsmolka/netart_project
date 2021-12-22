@@ -1,0 +1,1 @@
+python  predict.py "en" "sample_en.csv"
