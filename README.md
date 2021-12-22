@@ -1,5 +1,5 @@
 # netart_project
-You have to first download and unzip the models from https://drive.google.com/drive/folders/1trCsMiz8JGNQVLeULVq0dYdNqLCCmQjT?usp=sharing.
+You have to first download and unzip the models from https://drive.google.com/drive/folders/1trCsMiz8JGNQVLeULVq0dYdNqLCCmQjT?usp=sharing. The requirements are in "requirements.txt"
 Files with the data from the crawler have to be in csv, English must have "title" column, Taiwanese and Chinese must have "content" column.
 
 To run the prediction see the example scripts. The first argument is the news source ("en", "ch" or ""tw"). Second argument is the csv file with news.
